@@ -50,7 +50,7 @@
 }
 
 .question.selected {
-    border: 1px solid rgb(33, 73, 6);
+    outline: 1px solid rgb(33, 73, 6);
     background-color: rgb(217, 252, 217);
 }
 

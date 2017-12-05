@@ -11,7 +11,7 @@
 /build
 
 #deployment
-/keys
+/keys/privatekey.json
 
 # misc
 .DS_Store

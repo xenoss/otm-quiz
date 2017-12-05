@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
+# Requirements
+
+- Node.js 8.x
+
+
+# Installation
+
+`npm i`
+
 # Local run
 
 `npm run`
