@@ -1,0 +1,63 @@
+/* LAYOUT */
+
+.navbar {
+    background-color: #fde7ae;
+    padding: 10px 20px;
+}
+
+.alert {
+    padding: 10px 10px;
+    border: 1px solid red;
+    background-color: #fddbdb;
+    margin: 10px 0;
+}
+
+.hand {
+    cursor: pointer;
+}
+
+.block {
+    margin: 20px 0;
+}
+
+.container {
+    margin-top: 40px;
+}
+
+.right {
+    text-align: right;
+}
+
+
+/* QUIZ */
+
+.quiz {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    transition: 0.5s;
+    
+}
+
+.questions {
+    text-align: left;
+    margin: 20px 20px;
+}
+
+.question {
+    cursor: pointer;
+    padding: 10px;
+}
+
+.question.selected {
+    border: 1px solid rgb(33, 73, 6);
+    background-color: rgb(217, 252, 217);
+}
+
+.danger {
+    color: red;
+}
+
+*:focus{
+    outline: none;
+}

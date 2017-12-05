@@ -1,0 +1,12 @@
+[ignore]
+.*/node_modules/protobufjs/.*
+
+[include]
+
+[libs]
+
+[lints]
+
+[options]
+
+[strict]
